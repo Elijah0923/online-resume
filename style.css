@@ -9,7 +9,7 @@
 }
 
 body {
-    background-color: #023047;
+    background-color: #0c979a;
 }
 
 .main-content {
@@ -23,13 +23,13 @@ body {
 .left-section {
     grid-column: span 3;
     height: 100%;
-    background-color: #fcf80caa;
-    border: 1px solid black;
+    background-color: #006989aa;
+    border: 1px solid rgba(50, 110, 109, 0.005);
 }
 
 .right-section {
     grid-column: span 4;
-    background-color: #bcc906;
+    background-color: #068bc9;
     height: 100%;
 }
 
